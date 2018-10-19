@@ -1,0 +1,16 @@
+
+
+Code python nằm trong file /Venv/Craw. Tạo Project mở file knn submit của em và chạy file Craw để ra kết quả.
+
+Trong Source code của em có vài đường dẫn link đến thư mục chứa ~/Venv/ nên thầy sửa lại đường dẫn phù hợp.
+
+Em đã xóa các file .txt khi chạy được từ file JSON để nhẹ upload. Khi thầy chạy lại sẽ ra lại các file đó nên em xin phép không đính kèm.
+
+Em dùng Pycharm nên không biết những IDE khác có chạy tốt không, nếu không chạy được mong thầy thông báo lại để em chỉnh sửa.
+
+Em crawl 200 bài báo và sử dụng 5NN. Hình kết quả chạy trên máy của em trong file hình bên dưới.
+
+Em cảm ơn ạ!
+
+Link facebook của em: https://www.facebook.com/moreromem
+
